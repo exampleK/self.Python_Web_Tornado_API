@@ -1,22 +1,22 @@
 
 '''  
-在公司写的一些api练手用，菜鸟，纯练手
+在公司写的一些api练手用，菜鸟，纯练手  
 '''  
 
 -------------------------------环境---------------------------------  
 
   
-#系统：
-(.venv) # lsb_release -a
-No LSB modules are available.
-Distributor ID: Ubuntu
-Description:    Ubuntu 16.04.5 LTS
-Release:        16.04
-Codename:       xenial
+#系统 :  
+(.venv) # lsb_release -a  
+No LSB modules are available.  
+Distributor ID: Ubuntu  
+Description:    Ubuntu 16.04.5 LTS  
+Release:        16.04  
+Codename:       xenial  
   
 #python版本：
 Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
-[GCC 5.4.0 20160609] on linux
+[GCC 5.4.0 20160609] on linux  
 
   
 #pip安装包：
